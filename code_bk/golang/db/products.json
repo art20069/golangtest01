@@ -1,0 +1,44 @@
+[
+    {
+        "sku": "F1001",
+        "name": "Pink Tulip",
+        "desc": "Tulips are a genus of spring-blooming perennial herbaceous bulbiferous geophytes. The flowers are usually large, showy and brightly coloured, generally red, pink, yellow, or white.",
+        "price": 100,
+        "status": 1
+    },
+    {
+        "sku": "F1002",
+        "name": "Pristine magnolia",
+        "desc": "Pristine magnolia is a hybrid from two great parent plants, M. denudata x M. stellata 'Waterlily'. It provides wonderful fragrance in addition to pure ivory-white spring flowers on a vigorously growing small pyramidal tree.",
+        "price": 120,
+        "status": 1
+    },
+    {
+        "sku": "F1003",
+        "name": "Dahlia",
+        "desc": "Dahlia is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico and Central America.",
+        "price": 130,
+        "status": 1
+    },
+    {
+        "sku": "A1001",
+        "name": "Raccoon",
+        "desc": "The raccoon , sometimes called the common raccoon to distinguish it from other species, is a mammal native to North America. It is the largest of the procyonid family, having a body length of 40 to 70 cm (16 to 28 in), and a body weight of 5 to 26 kg (11 to 57 lb).",
+        "price": 12000,
+        "status": 1
+    },
+    {
+        "sku": "A1002",
+        "name": "Rabbit",
+        "desc": "Rabbits, also known as bunnies or bunny rabbits, are small mammals in the family Leporidae (which also contains the hares) of the order Lagomorpha (which also contains the pikas). Oryctolagus cuniculus includes the European rabbit species and its descendants, the world's 305 breeds of domestic rabbit.",
+        "price": 250,
+        "status": 1
+    },
+    {
+        "sku": "C1001",
+        "name": "Macbook",
+        "desc": "The MacBook is a brand of Macintosh notebook computers designed and marketed by Apple Inc.",
+        "price": 100000,
+        "status": 2
+    }
+]

@@ -1,0 +1,23 @@
+https://github.com/art20069/golangtest01.git
+----------------------
+echo "# golangtest01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/art20069/golangtest01.git
+git push -u origin main
+-----------------------
+git remote add origin https://github.com/art20069/golangtest01.git
+git branch -M main
+git push -u origin main
+
+---- เริ่มต้นสร้าง project_golang ---
+run font_ui for project_golang
+cmd --> 
+npx serve -s 
+url-run for browser
+--------------------------------
+
+
+
